@@ -1,31 +1,42 @@
-<h1 align="left">Olá 👋 Tudo bem?</h1>
+Protótipo de Site
 
-###
+Este é um protótipo desenvolvido usando HTML, CSS e JavaScript.
+O objetivo deste projeto foi apenas praticar essas tecnologias, já que ainda estou aprendendo a utilizá-las.
 
-<p align="left">Meu nome é Kauã, tenho 18 anos e estou iniciando minha jornada na programação.</p>
+~> Não é um projeto finalizado ou voltado para uso real — foi feito como iniciativa pessoal para estudo.
 
-###
+> Objetivos
 
-<h2 align="left">Sobre mim</h2>
+- Colocar em prática conceitos básicos de HTML, CSS e JavaScript.
 
-###
+- Experimentar ideias de layout e interatividade.
 
-<p align="left">💻 Programador em formação <br>📚 Aprendendo Python, HTML, CSS e JavaScript <br>🎯 Objetivo: evoluir constantemente e criar soluções criativas</p>
+- Aprender na prática a estruturação de um site simples.
 
-###
 
-<h2 align="left">Aprendendo:</h2>
+> Tecnologias utilizadas
 
-###
+- HTML5
+- CSS3
+- JavaScript
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
 
+> O que aprendi
+
+- Criar a estrutura básica de uma página com HTML.
+
+- Aplicar estilos com CSS para melhorar a aparência.
+
+- Usar JavaScript para adicionar interatividade.
+
+- Organizar arquivos e pastas de um projeto web.
+
+- Testar e visualizar o projeto no navegador.
+
+
+Status do projeto
+
+🚧 Em aprendizado — este repositório serve como registro da minha evolução nos estudos.
+
+Se você quiser, posso também deixar essa parte de “O que aprendi” mais descritiva e pessoal, tipo um mini diário, para mostrar de forma mais humana como foi essa experiência. Isso deixaria o README mais próximo e inspirador. Quer que eu faça assim?
 ###
